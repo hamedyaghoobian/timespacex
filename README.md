@@ -169,6 +169,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📫 Contact
 
-Hamed Yaghoobian - hamedyaghoobian@gmail.com
+For questions, suggestions, or contributions, please use [GitHub Issues](https://github.com/hamedyaghoobian/timespacex/issues).
 
 Project Link: [https://github.com/hamedyaghoobian/timespacex](https://github.com/hamedyaghoobian/timespacex) 
